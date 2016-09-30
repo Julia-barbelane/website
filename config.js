@@ -10,7 +10,7 @@ GH.OWNER = 'walkingdev'
 GH.CREW = 'sessions'
 
 var MULTIBAO = {}
-MULTIBAO.UVP1 = 'Explorer un truc dans des endroits insolites'
-MULTIBAO.UVP2 = 'Marcher, coder, échanger'
-MULTIBAO.BUTTON1 = 'Commencer ici'
-MULTIBAO.BUTTON2 = 'Guide d\'utilisation'
+MULTIBAO.UVP1 = 'Apprenez en vous baladant'
+MULTIBAO.UVP2 = 'et découvrez des endroits insolites'
+MULTIBAO.BUTTON1 = ''
+MULTIBAO.BUTTON2 = ''
