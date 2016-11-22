@@ -1,5 +1,9 @@
 # Daktary
 
+## US en cours
+
+US-A1
+
 ## Serveurs
 Prod : http://www.multibao.org
 Pré-prod : http://dev.multibao.org
@@ -58,8 +62,8 @@ $ npm run build
 ## Credits
 Thomas Wolff : Product Owner
 Stéphane Langlois : Développement
-Erik Gardin : Intégration
-Aymeric Favre : Web Design
+Erick Gardin : Intégration
+Aymeric Faivre : Web Design
 Xavier Caodic : Documentation
 Louise Berrotte : Interviews, accompagnement contributeurs
 Lilian Ricaud : Affinage Backlog
@@ -85,7 +89,3 @@ Vincent Agnano : Anywhere
 ### Discussion intégration
 * Regarder GitBook
 * Affichage fiches : [exemple des balises HTML](http://dev.multibao.org/#newick/grill/blob/master/styleguide.md)
-
-## Pull Request
-
-#US1 Personnaliser sa version de daktary
