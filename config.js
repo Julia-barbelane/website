@@ -13,4 +13,6 @@ var MULTIBAO = {}
 MULTIBAO.UVP1 = 'Apprendre avec ses pieds'
 MULTIBAO.UVP2 = 'et découvrir des endroits insolites'
 MULTIBAO.BUTTON1 = 'Agenda'
+MULTIBAO.LINK1 = '#walkingdev/walkingdev/blob/master/agenda.md'
 MULTIBAO.BUTTON2 = ''
+MULTIBAO.LINK2 = ''
