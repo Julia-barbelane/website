@@ -12,5 +12,5 @@ GH.CREW = 'sessions'
 var MULTIBAO = {}
 MULTIBAO.UVP1 = 'Apprendre avec ses pieds'
 MULTIBAO.UVP2 = 'et découvrir des endroits insolites'
-MULTIBAO.BUTTON1 = ''
+MULTIBAO.BUTTON1 = 'Agenda'
 MULTIBAO.BUTTON2 = ''
