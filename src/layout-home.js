@@ -12,7 +12,7 @@ layout.home.html(`
           <a href="${MULTIBAO.LINK1}">${MULTIBAO.BUTTON1}</a>
         </div>
         <div>
-          <a href="#multibao/documentation/blob/master/README.md">${MULTIBAO.BUTTON2}</a>
+          <a href="${MULTIBAO.LINK2}">${MULTIBAO.BUTTON2}</a>
         </div>
       </div>
   </section>
