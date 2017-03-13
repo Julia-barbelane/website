@@ -9,7 +9,7 @@ layout.home.html(`
       <div class="home-intro-content container">
         <h2>${MULTIBAO.UVP1}<span>${MULTIBAO.UVP2}</span></h2>
         <div>
-          <a href="#multibao/contributions/blob/master/pages/commencer_ici.md">${MULTIBAO.BUTTON1}</a>
+          <a href="${MULTIBAO.LINK1}">${MULTIBAO.BUTTON1}</a>
         </div>
         <div>
           <a href="#multibao/documentation/blob/master/README.md">${MULTIBAO.BUTTON2}</a>
